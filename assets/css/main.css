@@ -8,7 +8,7 @@
 
 body {
   background-color: #f2f2f2;
-    font-family: "Lato";
+    font-family: 'Catamaran', sans-serif;
     font-weight: 300;
     font-size: 16px;
     color: #555;
@@ -19,7 +19,7 @@ body {
 
 /* Titles */
 h1, h2, h3, h4, h5, h6 {
-    font-family: "Raleway";
+font-family: 'Catamaran', sans-serif;
     font-weight: 300;
     color: #333;
 }
@@ -37,7 +37,7 @@ p {
 
 /* Links */
 a {
-    color: #f85c37;
+    color: #ffffff;
     word-wrap: break-word;
 
     -webkit-transition: color 0.1s ease-in, background 0.1s ease-in;
@@ -84,7 +84,7 @@ a:after {
 	right: 0;
 	z-index: 10000;
 	overflow: visible;
-	font: normal 16px/24px  'Open Sans', "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font: normal 16px/24px 'Catamaran', sans-serif;
 }
 
 #section-topbar a {
@@ -124,7 +124,7 @@ a:after {
 
 #section-topbar ul#nav a {
   display: block;
-  font: normal 11px/18px "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font: normal 11px/18px 'Catamaran', sans-serif;
   text-decoration: none;
   padding: 18px 20px 18px 20px;
   border-left: 1px solid #222;
@@ -153,7 +153,7 @@ a:after {
 
 /* Header Wrap */
 #headerwrap {
-	background: url(../img/header-bg.jpg) no-repeat center top;
+	background: url(../img/Camelback.png) no-repeat center top;
 	margin-top: 60px;
 	padding-top:140px;
 	text-align:center;

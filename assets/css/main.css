@@ -154,7 +154,7 @@ a:after {
 /* Header Wrap */
 #headerwrap {
 	background: url(../img/Sea.png) no-repeat center top;
-	margin-top: 60px;
+	margin-top: 0px;
 	padding-top:140px;
 	text-align:center;
 	background-attachment: relative;
@@ -170,31 +170,7 @@ a:after {
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
-    background-size: cover;
-}
-
-
-#funseperation {
-    background: url(../img/Beach.png) no-repeat center top;
-	margin-top: 25px;
-	padding-top:100px;
-	text-align:center;
-	background-attachment: relative;
-	background-position: center center;
-	min-height: 800px;
-	width: 100%;
-	
-    -webkit-background-size: 100%;
-    -moz-background-size: 100%;
-    -o-background-size: 100%;
-    background-size: 100%;
-
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    
-    
+    background-size: cover; 
 }
 
 #headerwrap h1 {
